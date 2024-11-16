@@ -12,12 +12,18 @@ There are three main types of machine learning:
 Supervised Learning: In supervised learning, models are trained on labeled data (data with known outputs). The goal is for the model to learn the relationship between the input and output data to predict future outcomes.
 
 Example algorithms: Linear Regression, Logistic Regression, Support Vector Machines (SVM), Decision Trees, etc.
+
+
 Unsupervised Learning: In unsupervised learning, the model is provided with data that has no labels, and it attempts to find patterns or groupings within the data on its own.
 
 Example algorithms: K-Means Clustering, Principal Component Analysis (PCA), DBSCAN, etc.
+
+
 Reinforcement Learning: Reinforcement learning focuses on training models through interactions with an environment. The model takes actions in an environment and learns through feedback in the form of rewards or penalties.
 
 Example algorithms: Q-Learning, Deep Q Networks (DQN), Actor-Critic Methods, etc.
+
+
 Common Applications of Machine Learning:
 Image Recognition: Used in facial recognition, object detection, and medical imaging.
 Natural Language Processing (NLP): Enables machines to understand, interpret, and respond to human language.
